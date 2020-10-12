@@ -1,0 +1,61 @@
+{"chats": {
+		"1": {
+			"author": "Mask",
+			"msgArr": [
+				{
+					"name": "Mask",
+					"text": "Hello"
+				},
+				{
+					"name": "Anfisa",
+					"text": "Hi"
+				},
+				{
+					"name": "Mask",
+					"text": "How are U?"
+				},
+				{
+					"name": "Anfisa",
+					"text": "Fine, thanks"
+				}
+			]
+		},
+		"2": {
+			"author": "Durov",
+			"msgArr": [
+				{
+					"name": "Durov",
+					"text": "Hello, i had created VK"
+				},
+				{
+					"name": "Anfisa",
+					"text": "It's awesome"
+				},
+				{
+					"name": "Durov",
+					"text": "Yeaa"
+				}
+			]
+		},
+		"3": {
+			"author": "Gates",
+			"msgArr": [
+				{
+					"name": "Gates",
+					"text": "I'm smartest man in the world"
+				},
+				{
+					"name": "Anfisa",
+					"text": "Everybody know it"
+				}
+			]
+		}
+	},
+	"changeMsg": {
+		"text": "",
+		"indexMsg": null
+	},
+	"newMsgEffect": null,
+	"isLoading":false
+	
+}
